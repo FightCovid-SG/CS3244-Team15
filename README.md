@@ -1,5 +1,5 @@
-# CS3244-Team15
-AY20/21S2, CS3244 Team Project, Team 15.
+# A Bilingual COVID-19 Polygraph For Singapore Pioneer Generation
+Team 15 - Li Ruochen, Liu Yangming, Shao Yufei, Xiao Tianle, Yu Jiaxiang, Zhang Jingyuan
 
 Our project proposes a product that aims to address the issue of detecting misleading information related to COVID-19 for pioneer generation. The COVID pandemic and its consequences have been actively discussed on social media. Several issues has been aroused concerning the pioneer generation. 
 
