@@ -8,3 +8,4 @@ Firstly, many of the pioneer generation may be more used to their mother tongue 
 Secondly, information from these non-traditional sources is often inaccurate and difficult to verify, and their rapid dissemination could exacerbate the negative impact of the pandemic. 
 
 The pioneer generation needs more explanation rather than just a single "valid" or "invalid" result. Therefore, we propose to develop a bilingual fact-checking tool by exploring various Machine Learning and Deep learning methods including Gradient Boost, BERT, CNN, and more. We also made our models results easy to be interpreted by the elderly. 
+
